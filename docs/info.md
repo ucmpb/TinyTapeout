@@ -13,7 +13,17 @@ NAND input a and b to output 0
 
 ## How to test
 
-test output by testing input
+set the outputs and check the outputs:
+
+input a  |  input b  |  output 0
+0        |0          |1
+0        |1          |1
+1        |1          |0
+1        |0          |1
+
+
+
+
 
 ## External hardware
 
